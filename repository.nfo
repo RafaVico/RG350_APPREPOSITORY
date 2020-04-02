@@ -6,16 +6,16 @@ Arkanoid.opk|Arkanoid|v1.0|Break walls in this remake of classic Arkanoid.
 barbiesa-1.1.5.opk|Barbie Seahorse Adventures|v1.1.5|Platformer game with a seahorse and wonderful graphics.
 batiscafo_20191114.opk|Bathyscaphe|2019|Retrieve the treasures from the bottom of the sea with your bathyscaphe. Watch out for sea creatures. Includes EXP.
 Blockrage.opk|Block Rage|v1.0|Puzzle game, drop blocks and mix colors.
-cannonfodder.opk|Cannon Fodder||
+cannonfodder.opk|Cannon Fodder|Latest|
 cdogs-sdl_0.6.6.opk||v0.6.6|
-DeadlyEye.opk|||
+DeadlyEye.opk|Deadly Eye||
 dinksmallwood.opk|||
 escapefromminos_20191114.opk|Escape from Minos|2019|You are Theseus, go through infinite mazes full of treasures and avoid the Minotaur. Includes EXP.
 exp_20191208.opk|Exp|2019|Application that activates EXP (achievements) in some games.
-GecaBlaster2.opk|||
+GecaBlaster2.opk|Geca Blaster 2|Latest|
 gianasreturn.opk|Giana's Return|2014|Difficult platformer game, with a heroic girl and lots of enemies.
 griffon.opk|The Griffon Legend|2005|RPG game of fantasy and detailed art.
-HamstersEscape.opk|||
+HamstersEscape.opk|Hamster Escape|Latest|
 hocoslamfy-od.opk|||
 last-mission.opk|Last Mission||Remake of the ZX Spectrum game. Drive your ship through futuristic screens.
 LoveSnake.opk|||Remake of classic snake with funny graphics.
@@ -25,7 +25,7 @@ meteoroid3d.opk|||
 MineSweeper.opk|||
 powder_117.opk|Powder 117|v1.0|Roguelike game, dive to level 25 to reach you big enemy.
 puzzletube.opk|||
-rainbow-diamonds.opk|||
+rainbow-diamonds.opk|Rainbow Diamonds|v1.0.0|Beautiful and simple platformer game.
 Rockbot1.1.1.opk|Rockbot|v1.1.1|Fast and great side-scrolling platformer.
 rockrain2_20191116.opk|Rock Rain 2|2019|Beat the largest number of screens, alone or with a partner, and watch the rocks that rain from the sky. Includes EXP.
 rookiehero_20191120.opk|Rookie Hero|2019|Platform and action game with many statistics. Includes EXP.
@@ -39,10 +39,10 @@ sqrxz3-v.latest-gcw-zero.opk|SQRXZ III|v1.05|The return of Sqrxz.
 sqrxz4-v.latest-gcw-zero.opk|SQRXZ IV|v1.00|The coolest adventure of Sqrxz.
 stringrolled.opk|Stringrolled|v1.0|A cat and a girl try to escape together.
 supertux.opk|Super Tux|v0.1.1|Side-scrolling platformer with a tux as the hero.
-SyobonAction.opk|||
+SyobonAction.opk|Syobon Action|Latest|hard and frustrating platformer game.
 TailTale.opk|Tail-Tale|v1.0|Puzzle game of color blocks.
 ultratumba_20200330.opk|Ultratumba|2020|Board game for one or two players. Includes EXP.
-wvector.opk|||
+wvector.opk|Worship Vector|Latest|Tower defense game.
 xrick-20191110.opk|Rick Dangerous|2019|Remake of classic Rick Dangerous, action and adventures.
 Zelda - Navis Quest.opk|The Legend of Zelda - Time to Triumph|v1.0|Fan game about Zelda.
 Zelda - Picross.opk|The Legend ofZelda - Picross|v1.0|Zelda version of Picross.
@@ -51,41 +51,41 @@ Zelda - Return of the Hylian.opk|The Legend of Zelda - Oni Link Begins|v1.0|Fan 
 Zelda - Time to Triumph .opk|The Legend of Zelda - Return of the Hylian|v1.0|Fan game about Zelda.
 
 #EMULATORS
-3DOh_2018-05-23.opk||2018|
-Arnold_2019-12-03.opk||2019|
-Atari800_2020-02-14.opk||2020|Atari 800 emulator
-ColecoD_2013-06-15-launcher.opk||2013|
+3DOh_2018-05-23.opk|3DOh|2018|3DO emulator.
+Arnold_2019-12-03.opk|Arnold|2019|Amstrad CPC emulator.
+Atari800_2020-02-14.opk|Atari800|2020|Atari 800 emulator.
+ColecoD_2013-06-15-launcher.opk|ColecOD|2013|ColecoVision emulator.
 crocods_20200115.opk|CrocoDS|2020|Amstrad emulator.
-Daphne_2015-05-07.opk|Daphne|2015|Laserdisc games emulator
+Daphne_2015-05-07.opk|Daphne|2015|Laserdisc games emulator.
 DcaSTaway_2014-11-09.opk|DcaSTaway|2014|Atari ST emulator.
-DinguxVectrex_2014-05-25.opk||2014|
-DOSBox_2019-11-11-launcher.opk|DOSBox|2019|MS DOS emulator
-EasyRPG_2017-12-13.opk|EasyRPG|2017|
-fba44.opk|Final Burn Alpha|Latest|Arcade Machine multi-emulator
-FCEUX_2019-11-15.opk||2019|
-GenesisPlusGX_2019-12-23.opk||2019|
-gw-rg350_2020-03-18.opk||2020|Game & Watch emulator
-Handy_2019-12-10.opk||2019|
-jzIntv_2015-03-28.opk||2015|
-KEGS_2016-05-04.opk||2016|
-mednafen_pce.opk|||
-mednafen_pcfx.opk|||
-mednafen.opk|||
-NEO4All_2019-12-16.opk||2019|
-Nestopia_2020-01-01.opk||2020|
-openMSX-0.15-remap.opk||v0.15|Msx emulator
-Oswan_2019-10-09.opk||2019|
-pcsx4all.opk|||Playstation emulator.
-PocketSNES_2019-12-12.opk||2019|Super NES emulator
-PokeMini_2015-07-05.opk|PokeMini|2015|Pokemon Mini emulator
-Potator_2013-09-17.opk|Potator|2013|
-ProSystem_2013-06-16-launcher.opk|ProSystem|2013|Atari 7800 emulator
-ReGBA_2019-12-26.opk|ReGBA|2019|Game Boy Advance emulator
-Snes9x_2019-11-11.opk||2019|
-Stella_2015-10-06.opk||2015|
-Temper_2016-10-20.opk||2016|
-UAE4All_2019-08-23.opk||2019|
+DinguxVectrex_2014-05-25.opk|Dingux-Vectrex|2014|Vectrex emulator.
+DOSBox_2019-11-11-launcher.opk|DOSBox|2019|DOS emulator.
+EasyRPG_2017-12-13.opk|EasyRPG|2017|EasyRPG player.
+fba44.opk|Final Burn Alpha|Latest|Arcade Machine multi-emulator.
+FCEUX_2019-11-15.opk|FCEUX|2019|Nintendo Entertainment System (NES) and Famicon Disk System (FDS) emulator.
+GenesisPlusGX_2019-12-23.opk|Genesis Plus GX|2019|Sega multi-system emulator.
+gw-rg350_2020-03-18.opk|GW|2020|Game & Watch emulator.
+Handy_2019-12-10.opk|Handy|2019|Atari Lynx emulator.
+jzIntv_2015-03-28.opk|jzIntv|2015|Intellivision emulator.
+KEGS_2016-05-04.opk|KEGS|2016|Apple IIgs emulator.
+mednafen_pce.opk|Mednafen|Latest|Multi-system emulator.
+mednafen_pcfx.opk|Mednafen|Latest|Multi-system emulator.
+mednafen.opk|Mednafen|Latest|Multi-system emulator.
+NEO4All_2019-12-16.opk|Neo4all|2019|NeoGeo CD emulator.
+Nestopia_2020-01-01.opk||2020|Nintendo Entertainment System (NES) and Famicon Disk System (FDS) emulator.
+openMSX-0.15-remap.opk|openMSX|v0.15|Msx emulator.
+Oswan_2019-10-09.opk|Oswan|2019|WonderSwan emulator.
+pcsx4all.opk|Pcsx4all|v2.4|Playstation emulator.
+PocketSNES_2019-12-12.opk|PocketSNES|2019|Super Nintendo Entertainment System (SNES) emulator.
+PokeMini_2015-07-05.opk|PokeMini|2015|Pokemon Mini emulator.
+Potator_2013-09-17.opk|Potator|2013|Watara Supervision emulator.
+ProSystem_2013-06-16-launcher.opk|ProSystem|2013|Atari 7800 emulator.
+ReGBA_2019-12-26.opk|ReGBA|2019|Game Boy Advance emulator.
+Snes9x_2019-11-11.opk|Snes9x|2019|Super Nintendo Entertainment System (SNES) emulator.
+Stella_2015-10-06.opk|Stella|2015|Atari 2600 VCS emulator.
+Temper_2016-10-20.opk|Temper|2016|PC-Engine and TurboGrafx 16 emulator.
+UAE4All_2019-08-23.opk|UAE4ALL|2019|Amiga 500 emulator.
 unreal_speccy_portable0.0.59.opk|Unreal Speccy|v0.0.59|ZX Spectrum emulator.
-VICEx64_2020-02-13.opk||2020|
-XMAME_2015-03-15.opk||2015|
+VICEx64_2020-02-13.opk|Vice x64|2020|Versatil Commodore systems emulator, C64, C64DTV, C128, VIC20, PLUS64, CBM-II.
+XMAME_2015-03-15.opk|Xmame|2015|Multi Arcade Machine emulator.
 
