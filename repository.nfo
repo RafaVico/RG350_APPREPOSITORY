@@ -63,27 +63,42 @@ DOSBox_2019-11-11-launcher.opk|DOSBox|2019|DOS emulator.
 EasyRPG_2017-12-13.opk|EasyRPG|2017|EasyRPG player.
 fba44.opk|Final Burn Alpha|Latest|Arcade Machine multi-emulator.
 FCEUX_2019-11-15.opk|FCEUX|2019|Nintendo Entertainment System (NES) and Famicon Disk System (FDS) emulator.
+gambatte-opendingux-r572u3-20191201-204032(GB).opk|Gambatte GB|2019|Game Boy emulator.
+gambatte-opendingux-r572u3-20191201-204032(GBC).opk|Gambatte GBC|2019|Game Boy Color emulator.
 GenesisPlusGX_2019-12-23.opk|Genesis Plus GX|2019|Sega multi-system emulator.
+gngeo.opk|Gngeo|Latest|NeoGeo emulator.
+gpsp-2019-11-15.opk|gpSP|2019|Game Boy Advance emulator.
 gw-rg350_2020-03-18.opk|GW|2020|Game & Watch emulator.
 Handy_2019-12-10.opk|Handy|2019|Atari Lynx emulator.
 jzIntv_2015-03-28.opk|jzIntv|2015|Intellivision emulator.
 KEGS_2016-05-04.opk|KEGS|2016|Apple IIgs emulator.
+mame4all.opk|Mame4all|Latest|Multi Arcade Machine emulator.
 mednafen_pce.opk|Mednafen|Latest|Multi-system emulator.
 mednafen_pcfx.opk|Mednafen|Latest|Multi-system emulator.
 mednafen.opk|Mednafen|Latest|Multi-system emulator.
+mupen64plus.opk|Mupen64|Latest|Nintendo 64 emulator.
 NEO4All_2019-12-16.opk|Neo4all|2019|NeoGeo CD emulator.
 Nestopia_2020-01-01.opk||2020|Nintendo Entertainment System (NES) and Famicon Disk System (FDS) emulator.
+OpenBOR-2014.06.03.opk|OpenBOR|2014|Fight game engine based on Beats of Rage.
 openMSX-0.15-remap.opk|openMSX|v0.15|Msx emulator.
 Oswan_2019-10-09.opk|Oswan|2019|WonderSwan emulator.
 pcsx4all.opk|Pcsx4all|v2.4|Playstation emulator.
+picodrive_gcw0(32X).opk|PicoDrive 32X|Latest|Sega 32X emulator.
+picodrive_gcw0(CD).opk|PicoDrive CD|Latest|Sega Mega CD emulator.
+picodrive_gcw0(MD).opk|Picodrive|Latest|Sega Genesis/Mega Drive emulator.
 PocketSNES_2019-12-12.opk|PocketSNES|2019|Super Nintendo Entertainment System (SNES) emulator.
 PokeMini_2015-07-05.opk|PokeMini|2015|Pokemon Mini emulator.
 Potator_2013-09-17.opk|Potator|2013|Watara Supervision emulator.
 ProSystem_2013-06-16-launcher.opk|ProSystem|2013|Atari 7800 emulator.
+Race(Neogeo Pocket).opk|Race!|Latest|NeoGeo Pocket emulator.
 ReGBA_2019-12-26.opk|ReGBA|2019|Game Boy Advance emulator.
+retro8_v1b_20200108.opk|Retro8|2020|Pico-8 emulator.
+smsplus_gcw0(GG).opk|SMSPlus GG|Latest|Sega Game Gear emulator.
+smsplus_gcw0(MS).opk|SMSPlus MS|Latest|Sega Master System emulator.
 Snes9x_2019-11-11.opk|Snes9x|2019|Super Nintendo Entertainment System (SNES) emulator.
 Stella_2015-10-06.opk|Stella|2015|Atari 2600 VCS emulator.
 Temper_2016-10-20.opk|Temper|2016|PC-Engine and TurboGrafx 16 emulator.
+tic-80_rg350_20200321_steward.opk|Tic-80|2020|Tic-80 emulator.
 UAE4All_2019-08-23.opk|UAE4ALL|2019|Amiga 500 emulator.
 unreal_speccy_portable0.0.59.opk|Unreal Speccy|v0.0.59|ZX Spectrum emulator.
 VICEx64_2020-02-13.opk|Vice x64|2020|Versatil Commodore systems emulator, C64, C64DTV, C128, VIC20, PLUS64, CBM-II.
