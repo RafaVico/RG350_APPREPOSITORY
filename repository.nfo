@@ -8,34 +8,34 @@ Arkanoid.opk|Arkanoid|v1.0|Break walls in this remake of classic Arkanoid.
 BarbieSA.opk|Barbie Seahorse Adventures|v1.1.5|Platformer game with a seahorse and wonderful graphics.
 batiscafo_20191114.opk|Bathyscaphe|2019|Retrieve the treasures from the bottom of the sea with your bathyscaphe. Watch out for sea creatures. Includes EXP.
 Blockrage.opk|Block Rage|v1.0|Puzzle game, drop blocks and mix colors.
-cannonfodder.opk|Cannon Fodder|Latest|
-cdogs-sdl_0.6.6.opk||v0.6.6|
-DeadlyEye.opk|Deadly Eye||
-dinksmallwood.opk|||
+cannonfodder.opk|Cannon Fodder|Latest|Shoot'em up and strategic war game. Complete the objetive missions and rank up.
+cdogs-sdl_0.6.6.opk|C-Dogs|v0.6.6|Shoot'em up game with lots of enemies and bullets.
+DeadlyEye.opk|Deadly Eye||Pilot your ship and fight in a futuristic war.
+dinksmallwood.opk|Dink Smallwood|1997|Funny RPG game.
 escapefromminos_20191114.opk|Escape from Minos|2019|You are Theseus, go through infinite mazes full of treasures and avoid the Minotaur. Includes EXP.
 exp_20191208.opk|Exp|2019|Application that activates EXP (achievements) in some games.
-GecaBlaster2.opk|Geca Blaster 2|Latest|
+GecaBlaster2.opk|Geca Blaster 2|Latest|Enter the war with yor plane.
 Gianas Return.opk|Giana's Return|2014|Difficult platformer game, with a heroic girl and lots of enemies.
 Griffon Legend.opk|The Griffon Legend|2005|RPG game of fantasy and detailed art.
-HamstersEscape.opk|Hamster Escape|Latest|
-hocoslamfy-od.opk|||
+HamstersEscape.opk|Hamster Escape|Latest|Simple game about a hamster.
+hocoslamfy-od.opk|Hocoslamfy||Flappy Bird clone.
 last-mission.opk|Last Mission||Remake of the ZX Spectrum game. Drive your ship through futuristic screens.
 Love Snake.opk|Love Snake||Remake of classic snake with funny graphics.
 MazezaM.opk|MazezaM|2013|Puzzle game, you have to find the exit in each level.
-Meritous.opk|||
-Meteoroid3d.opk|Meteoroid 3D||
+Meritous.opk|Meritous||Action-adventure dungeon crawl game.
+Meteoroid3d.opk|Meteoroid 3D||Stereoscopic arcade 3D shooter.
 MineSweeper.opk|Minesweeper|Latest|Minesweeper clone.
 minislug.opk|Mini Slug|Latest|Metal Slug clone.
 powder_117.opk|Powder 117|v1.0|Roguelike game, dive to level 25 to reach you big enemy.
-Puzzletube.opk|||
+Puzzletube.opk|Puzzle Tube||Puzzle game on a tube.
 rainbow-diamonds.opk|Rainbow Diamonds|v1.0.0|Beautiful and simple platformer game.
 Rockbot1.1.1.opk|Rockbot|v1.1.1|Fast and great side-scrolling platformer.
 rockrain2_20191116.opk|Rock Rain 2|2019|Beat the largest number of screens, alone or with a partner, and watch the rocks that rain from the sky. Includes EXP.
 rookiehero_20191120.opk|Rookie Hero|2019|Platform and action game with many statistics. Includes EXP.
-SameGoo.opk|||
-skifree_v7.opk||v7|
-Snowman.opk|||
-Spout.opk|||
+SameGoo.opk|SameGoo||SameGame style puzzle game.
+skifree_v7.opk|SkiFree|v7|You must ski through an endless slope avoiding obstacles.
+Snowman.opk|Snowman||Platformer game about a snowman.
+Spout.opk|Spout||A simple caveflying game.
 sqrxz-v.latest-gcw-zero.opk|SQRXZ|v1.0B|The most delusional adventures of Sqrxz in a difficult platform game.
 sqrxz2-v.latest-gcw-zero.opk|SQRXZ 2|v1.00|Continue the adventures of Sqrxz.
 sqrxz3-v.latest-gcw-zero.opk|SQRXZ III|v1.05|The return of Sqrxz.
@@ -110,7 +110,7 @@ XMAME_2015-03-15.opk|Xmame|2015|Multi Arcade Machine emulator.
 
 #PORTS without data
 
-devilutionx-rg350.opk|Devilution|Latest|Diablo port.
+devilutionx-rg350.opk|Devilution|04042020|Diablo port.
 doom.opk|Doom||Doom engine.
 ecwolf.opk|ECWolf||Wolfenstein 3D engine.
 eduke32.opk|Eduke||Duke Nukem engine.
