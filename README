@@ -2,9 +2,9 @@
 
 Repository for RG350 games and applications.
 This repository is made to access directly from wifi console, and download apps
-to SD cards from AppStore app.
+to SD cards from RogueStore app.
 
-AppStore detect opk screenshots with same name, and the info files located in repository.nfo.
+RogueStore detect opk screenshots with same name, and the info files located in repository.nfo.
 
 NOTES:
 

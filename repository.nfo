@@ -78,6 +78,7 @@ Zelda - Time to Triumph .opk|The Legend of Zelda - Return of the Hylian|v1.0|Fan
 3DOh_2018-05-23.opk|3DOh|2018|3DO emulator.
 Arnold_2019-12-03.opk|Arnold|2019|Amstrad CPC emulator.
 Atari800_2020-02-14.opk|Atari800|2020|Atari 800 emulator.
+Atari 800 v1.1.opk|Atari 800|v1.1|Atari 800 emulator (20-april-2020), fixed controls for Rogue.
 ColecoD_2013-06-15-launcher.opk|ColecOD|2013|ColecoVision emulator.
 crocods_20200115.opk|CrocoDS|2020|Amstrad emulator.
 Daphne_2015-05-07.opk|Daphne|2015|Laserdisc games emulator.
@@ -100,13 +101,13 @@ mame4all.opk|Mame4all|Latest|Multi Arcade Machine emulator.
 mednafen_pce.opk|Mednafen|Latest|Multi-system emulator.
 mednafen_pcfx.opk|Mednafen|Latest|Multi-system emulator.
 mednafen.opk|Mednafen|Latest|Multi-system emulator.
-mupen64plus.opk|Mupen64|Latest|Nintendo 64 emulator.
+mupen64plus.opk|Mupen64|Latest|Nintendo 64 emulator (30-april-2020), fixed and mapping controls for RG350.
 NEO4All_2019-12-16.opk|Neo4all|2019|NeoGeo CD emulator.
 Nestopia_2020-01-01.opk||2020|Nintendo Entertainment System (NES) and Famicon Disk System (FDS) emulator.
 OpenBOR-2014.06.03.opk|OpenBOR|2014|Fight game engine based on Beats of Rage.
 openMSX-0.15-remap.opk|openMSX|v0.15|Msx emulator.
 Oswan_2019-10-09.opk|Oswan|2019|WonderSwan emulator.
-pcsx4all.opk|Pcsx4all|v2.4|Playstation emulator.
+pcsx4all.opk|Pcsx4all|v2.4|Playstation emulator, checked for Rogue.
 picodrive_gcw0(32X).opk|PicoDrive 32X|Latest|Sega 32X emulator.
 picodrive_gcw0(CD).opk|PicoDrive CD|Latest|Sega Mega CD emulator.
 picodrive_gcw0(MD).opk|Picodrive|Latest|Sega Genesis/Mega Drive emulator.
