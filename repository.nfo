@@ -98,9 +98,10 @@ gw-rg350_2020-03-18.opk|GW|2020|Game & Watch emulator.
 Handy_2019-12-10.opk|Handy|2019|Atari Lynx emulator.
 jzIntv_2015-03-28.opk|jzIntv|2015|Intellivision emulator.
 KEGS_2016-05-04.opk|KEGS|2016|Apple IIgs emulator.
-mame4all.opk|Mame4all|Latest|Multi Arcade Machine emulator.
-mednafen_pce.opk|Mednafen|Latest|Multi-system emulator.
-mednafen_pcfx.opk|Mednafen|Latest|Multi-system emulator.
+mame4all.opk|Mame4all|v1.2|Multi Arcade Machine emulator.
+mame4all-params-5.opk|Mame4all|v1.2r5|Multi Arcade Machine emulator.
+mednafen_pce.opk|Mednafen|Latest|Multi-system emulator, PC Engine.
+mednafen_pcfx.opk|Mednafen|Latest|Multi-system emulator, PC-FX.
 mednafen.opk|Mednafen|Latest|Multi-system emulator.
 mupen64plus.opk|Mupen64|Latest|Nintendo 64 emulator (30-april-2020), fixed and mapping controls for RG350.
 NEO4All_2019-12-16.opk|Neo4all|2019|NeoGeo CD emulator.
@@ -126,7 +127,8 @@ Snes9x_2019-11-11.opk|Snes9x|2019|Super Nintendo Entertainment System (SNES) emu
 Stella_2015-10-06.opk|Stella|2015|Atari 2600 VCS emulator.
 Temper_2016-10-20.opk|Temper|2016|PC-Engine and TurboGrafx 16 emulator.
 tic-80_rg350_20200321_steward.opk|Tic-80|2020|Tic-80 emulator.
-UAE4All_2019-08-23.opk|UAE4ALL|2019|Amiga 500 emulator.
+UAE4All_2019-08-23.opk|UAE4ALL|v1|Amiga 500 emulator.
+uae4all-params-20200430.opk|UAE4ALL|v1_2020|Amiga 500 emulator.
 unreal_speccy_portable0.0.59.opk|Unreal Speccy|v0.0.59|ZX Spectrum emulator.
 VICEx64_2020-02-13.opk|Vice x64|2020|Versatil Commodore systems emulator, C64, C64DTV, C128, VIC20, PLUS64, CBM-II.
 XMAME_2015-03-15.opk|Xmame|2015|Multi Arcade Machine emulator.
