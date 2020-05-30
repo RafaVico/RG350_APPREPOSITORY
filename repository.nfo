@@ -100,8 +100,8 @@ jzIntv_2015-03-28.opk|jzIntv|2015|Intellivision emulator.
 KEGS_2016-05-04.opk|KEGS|2016|Apple IIgs emulator.
 mame4all.opk|Mame4all|v1.2|Multi Arcade Machine emulator.
 mame4all-params-5.opk|Mame4all|v1.2r5|Multi Arcade Machine emulator.
-mednafen_pce.opk|Mednafen|Latest|Multi-system emulator, PC Engine.
-mednafen_pcfx.opk|Mednafen|Latest|Multi-system emulator, PC-FX.
+mednafen_pce.opk|Mednafen PCE|Latest|Multi-system emulator, PC Engine.
+mednafen_pcfx.opk|Mednafen PC-FX|Latest|Multi-system emulator, PC-FX.
 mednafen.opk|Mednafen|Latest|Multi-system emulator.
 mupen64plus.opk|Mupen64|Latest|Nintendo 64 emulator (30-april-2020), fixed and mapping controls for RG350.
 NEO4All_2019-12-16.opk|Neo4all|2019|NeoGeo CD emulator.
