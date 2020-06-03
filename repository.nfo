@@ -1,3 +1,7 @@
+#externalrepo=/SeongGino/RetroGame350-AppRepo
+#externalrepo=/retrogamehandheld/OpenDingux
+#externalrepo=/valentecaio/RG350-app-repo
+
 #GAMES
 
 Abbaye Des Morts.opk|L'Abbaye des Morts|2010|Platform game. Enter the cursed Abbey, activate mechanisms and avoid enemies.
@@ -144,6 +148,7 @@ FreeDoom_RG350_1.0.opk|Free Doom|v1.0|Doom pack wich includes: Legacy, Phase I a
 FreeDoom_RG350_1.1a.opk|Free Doom|v1.1a|Doom pack wich includes: Legacy, Phase I and Phase II. Sticks working on RG350.
 FreeDoom_RG350_1.1b.opk|Free Doom|v1.1b|Doom pack wich includes: Legacy, Phase I and Phase II. Sticks working on RG350.
 FreeDoom_RG350_1.2.opk|Free Doom|v1.2|Doom pack wich includes: Legacy, Phase I and Phase II. Sticks working on RG350.
+FreeDoom_RG350_1.3.opk|Free Doom|v1.3|Doom pack wich includes: Legacy, Phase I and Phase II. Sticks working on RG350.
 hexen2.opk|Hexen II||Hexen II engine.
 oda_freedoom.opk|Free Doom|2012|Doom engine wich includes: Legacy.
 OpenLara.opk|OpenLara||Tomb Raider engine.
@@ -153,3 +158,8 @@ quake3.opk|Quake 3||Quake 3 engine.
 rott.opk|Rise of the Triad||Rise of the Triad engine.
 shadow-warior.opk|Shadow Warrior||Shadow Warrior engine.
 
+#APPLICATIONS
+
+lgpt_RG350_27052020.opk|LittleGPTracker|1.3n_052|Music tracker designed for consoles.
+milkytracker26052020.opk|Milkytracker||Complete music tracker.
+SimpleMenu-RG-350_v6.1.opk|SimpleMenu|v6.1|SimpleMenu Is (a) Minimalistic Practical Lean (and) Efficient Menu (to) Enhance New Bittboys' Usability.
