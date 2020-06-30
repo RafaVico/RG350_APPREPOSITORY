@@ -11,8 +11,8 @@ RogueStore detect opk screenshots with same name, and the info files located in 
 In last App Store update, all OPKs with the same name in repository.nfo will be treated as different versions, and can be individually selected in the Store. Version files will be arranged alphabetically.
 
 Example:
-gambatte_20201302.opk|Gambatte|v1.1|Gameboy amulator.
-gambatteHD-123_v14.opk|Gambatte|v1.4|Gameboy amulator.
+gambatte_20201302.opk|Gambatte|v1.1|Gameboy emulator.
+gambatteHD-123_v14.opk|Gambatte|v1.4|Gameboy emulator.
 
 This files will show in App Store as 2 versions of Gambatte.
 
