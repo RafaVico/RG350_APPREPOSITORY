@@ -143,7 +143,7 @@ XMAME_2015-03-15.opk|Xmame|2015|Multi Arcade Machine emulator.
 
 #PORTS without data
 
-cgenius-1.8.3-v2.opk|Commander Genius|v1.8.3_2|Commander Keen games interpreter.
+cgenius-1.8.3-v2.opk|Commander Genius|v1.8.3_2|Commander Keen games interpreter. Place data at .CommanderGenius/games.
 devilutionx-rg350.opk|Devilution|040420|Diablo port.
 doom.opk|Doom||Doom engine.
 ecwolf.opk|ECWolf||Wolfenstein 3D engine.
