@@ -102,6 +102,7 @@ FCEUX_2019-11-15.opk|FCEUX|2019|Nintendo Entertainment System (NES) and Famicon 
 gambatte-dms-multi-r572u4-20200628.opk|Gambatte DMS|200628|GB/GBC emulator for handheld devices, using a modified Gambatte core.
 gambatte-opendingux-r572u3-20191201-204032(GB).opk|Gambatte GB|2019|Game Boy emulator.
 gambatte-opendingux-r572u3-20191201-204032(GBC).opk|Gambatte GBC|2019|Game Boy Color emulator.
+gambatte-dms-multi-r572u4-20211021.opk|Gambatte GBC|2021|Game Boy Color emulator.
 GenesisPlusGX_2019-12-23.opk|Genesis Plus GX|2019|Sega multi-system emulator.
 gngeo.opk|Gngeo|Latest|NeoGeo emulator.
 gpsp-2019-11-15.opk|gpSP|2019|Game Boy Advance emulator.
@@ -133,7 +134,7 @@ Race(Neogeo Pocket).opk|Race!|v1.2|NeoGeo Pocket emulator.
 Race(Explorer)_2019-12-11.opk|Race!|v1.2_2019|NeoGeo Pocket emulator, compatible with Simplemenu.
 ReGBA_2019-12-26.opk|ReGBA|2019|Game Boy Advance emulator.
 retro8_v1b_20200108.opk|Retro8|2020|Pico-8 emulator.
-scummvm-rg350-01132020.opk|ScummVM||Graphic adventures emulator.|scummvm_gcw0.opk|V 2.6.0 (Jul/2022)|Graphic adventures emulator.
+scummvm-rg350-01132020.opk|ScummVM||Graphic adventures emulator.
 smsplus_gcw0(GG).opk|SMSPlus GG|Latest|Sega Game Gear emulator.
 smsplus_gcw0(MS).opk|SMSPlus MS|Latest|Sega Master System emulator.
 Snes9x_2019-11-11.opk|Snes9x|2019|Super Nintendo Entertainment System (SNES) emulator.
