@@ -15,7 +15,6 @@ Apricots.opk|Apricots|2003|2D arcade side-scroller game in which you fly an airp
 Arkanoid.opk|Arkanoid|v1.0|Break walls in this remake of classic Arkanoid.
 BarbieSA.opk|Barbie Seahorse Adventures|v1.1.5|platform game with a seahorse and wonderful graphics.
 batiscafo_20191114.opk|Bathyscaphe|2019|Retrieve the treasures from the bottom of the sea with your bathyscaphe. Watch out for sea creatures. Includes EXP.
-Bermuda_Syndrome_RG350_10062021|Bermuda Syndrome|0.14|Platform Game.
 Blockling.opk|Blockling||Colorful puzzle game.
 Blockrage.opk|Block Rage|v1.0|Puzzle game, drop blocks and mix colors.
 cannonfodder.opk|Cannon Fodder|Latest|Shoot'em up and strategic war game. Complete the objetive missions and rank up.
@@ -152,6 +151,7 @@ XMAME_2015-03-15.opk|Xmame|2015|Multi Arcade Machine emulator.
 
 #PORTS without data
 
+Bermuda_Syndrome_RG350_10062021|Bermuda Syndrome|0.14|Platform Game.
 cgenius-1.8.3-v2.opk|Commander Genius|v1.8.3_2|Commander Keen games interpreter. Place data at .CommanderGenius/games.
 devilutionx-rg350.opk|Devilution|040420|Diablo port.
 doom.opk|Doom||Doom engine.
