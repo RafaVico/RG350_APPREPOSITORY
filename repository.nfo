@@ -125,7 +125,8 @@ Oswan_2019-10-09.opk|Oswan|2019|WonderSwan emulator.
 pcsx4all.opk|Pcsx4all|v2.4|Playstation emulator, checked for Rogue.
 picodrive_gcw0(32X).opk|PicoDrive 32X|Latest|Sega 32X emulator.
 picodrive_gcw0(CD).opk|PicoDrive CD|Latest|Sega Mega CD emulator.
-picodrive_gcw0(MD).opk|Picodrive|Latest|Sega Genesis/Mega Drive emulator.
+picodrive_gcw0(MD).opk|Picodrive|Old|Sega Genesis/Mega Drive emulator.
+PicoDrive-gcw0_1.99.opk|Picodrive|Latest (1.99)|Sega Genesis/Mega Drive emulator.
 PocketSNES_2019-12-12.opk|PocketSNES|2019|Super Nintendo Entertainment System (SNES) emulator.
 PokeMini_2015-07-05.opk|PokeMini|2015|Pokemon Mini emulator.
 Potator_2013-09-17.opk|Potator|2013|Watara Supervision emulator.
